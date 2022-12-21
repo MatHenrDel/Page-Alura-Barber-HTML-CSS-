@@ -12,7 +12,7 @@ A barbearia Alura é uma página sobre os serviços prestados pela barbearia Alu
 
 ## Descrição
 
-No projeto temos uma página Home, Produtos e Contato com informações sobre a "Barbearia Alura", nessas informações estão presentes textos, imagens com efeitos visuais, vídeo importado do YouTube, mapa importado.
+Neste projeto temos uma página Home, Produtos e Contato com informações sobre a "Barbearia Alura", nessas informações estão presentes textos, imagens com efeitos visuais, vídeo importado do YouTube, mapa importado.
 
 ## :floppy_disk: Objetivo
 
